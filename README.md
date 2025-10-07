@@ -1,7 +1,7 @@
-<div align="center">
+<div align="center"><h1></h1>
 # ✨ Akhil Pratap Singh ✨
-</div>
-# 💫 About Me:<br>
+</div>h1></div>
+<h2>💫 About Me:</h2>h2><br>
 🔭 I’m currently learning DATA SCIENCE<br>🔥 I’m skilled in PYTHON, JAVA(DSA), NUMPY, PANDAS, MATPLOTLIB, SEABORN, POWER BI<br>🚀 Data Science enthusiast passionate about exploring datasets and uncovering hidden insights.<br>🌱 Interested in solving real-world problems using data-driven decision-making.<br>⚡ Fun fact-I write better code after midnight — don’t ask why.
 
 
