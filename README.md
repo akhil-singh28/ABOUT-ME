@@ -1,7 +1,4 @@
-<h1><b>Hello Hello! I'm Akhil Pratap Singh </b></h1>
 
-<div align="center"><img alt="pikachu" src="<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d2627839-8c11-4f49-937e-96d1db618d21" />
-" /></div> <br/><br/> <h2><img src="https://slackmojis.com/emojis/10254-pepe_naruto/download" width="20"> <b>About Me<b/></h2>
 # 💫 About Me:<br>
 🔭 I’m currently learning DATA SCIENCE<br>🔥 I’m skilled in PYTHON, JAVA(DSA), NUMPY, PANDAS, MATPLOTLIB, SEABORN, POWER BI<br>🚀 Data Science enthusiast passionate about exploring datasets and uncovering hidden insights.<br>🌱 Interested in solving real-world problems using data-driven decision-making.<br>⚡ Fun fact-I write better code after midnight — don’t ask why.
 
@@ -15,3 +12,55 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akhil-singh28&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+# ✨ Akhil Pratap Singh ✨
+
+<p><em>Software developer passionate about creating amazing applications</em></p>
+
+<hr>
+
+</div>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=buefy&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**🎨 Frontend**
+
+`React` • `Next.js`
+
+**⚙️ Backend**
+
+`Node.js` • `MySQL`
+
+**🧠 AI/ML**
+
+`Pandas` • `NumPy` • `TensorFlow` • `Scikit-Learn`
+
+**💬 Languages**
+
+`Java` • `Python` • `C` • `JavaScript`
+
+</div>
+
+<div align="center">
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
+</div>
