@@ -8,6 +8,7 @@
 
 🔭 I’m currently learning **Data Science**  
 🔥 Skilled in **Python**, **Java (DSA)**, **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, **Power BI**  
+💕 I am looking to collaborate on Data Science Projects and Machine Learning
 🚀 Data Science enthusiast passionate about exploring datasets and uncovering hidden insights  
 🌱 Interested in solving real-world problems using data-driven decision-making  
 ⚡ Fun fact: I write better code after midnight — don’t ask why.
