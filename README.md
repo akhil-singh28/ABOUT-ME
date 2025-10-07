@@ -34,11 +34,18 @@
 
 ---
 
-## 📊 GitHub Stats:
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil-singh28&theme=aura&hide_border=false&include_all_commits=false&count_private=false)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=akhil-singh28&theme=aura&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <h2>📊 GitHub Stats</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akhil-singh28&theme=aura&hide_border=false" alt="Streak Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+</div>
 
 ---
+
 
