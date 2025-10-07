@@ -1,4 +1,6 @@
-
+<div align="center">
+# ✨ Akhil Pratap Singh ✨
+</div>
 # 💫 About Me:<br>
 🔭 I’m currently learning DATA SCIENCE<br>🔥 I’m skilled in PYTHON, JAVA(DSA), NUMPY, PANDAS, MATPLOTLIB, SEABORN, POWER BI<br>🚀 Data Science enthusiast passionate about exploring datasets and uncovering hidden insights.<br>🌱 Interested in solving real-world problems using data-driven decision-making.<br>⚡ Fun fact-I write better code after midnight — don’t ask why.
 
@@ -13,15 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=akhil-singh28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
 
-# ✨ Akhil Pratap Singh ✨
-
-<p><em>Software developer passionate about creating amazing applications</em></p>
-
-<hr>
-
-</div>
 
 ## 📊 GitHub Stats
 
