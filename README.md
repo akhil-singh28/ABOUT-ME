@@ -1,22 +1,22 @@
 <div align="center">
-  
-  <h1>✨ Akhil Pratap Singh ✨</h1>
-
+  <h1 style="font-size: 2.5em;">✨ Akhil Pratap Singh ✨</h1>
 </div>
 
-## 💫 About Me:
+<h2 style="font-size: 1.8em;">💫 About Me:</h2>
 
-🔭 I’m currently learning **Data Science**  
-🔥 Skilled in **Python**, **Java (DSA)**, **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, **Power BI**  
+<p style="font-size: 0.95em;">
+🔭 I’m currently learning <strong>Data Science</strong><br>
+🔥 Skilled in <strong>Python</strong>, <strong>Java (DSA)</strong>, <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, <strong>Seaborn</strong>, <strong>Power BI</strong><br>
 💕 I am looking to collaborate on Data Science and Machine Learning Projects<br>
-🚀 Data Science enthusiast passionate about exploring datasets and uncovering hidden insights  
-🌱 Interested in solving real-world problems using data-driven decision-making  
+🚀 Data Science enthusiast passionate about exploring datasets and uncovering hidden insights<br>
+🌱 Interested in solving real-world problems using data-driven decision-making<br>
 ⚡ Fun fact: I write better code after midnight — don’t ask why.
+</p>
+
 ---
+
 <div align="center">
-
-  <h2>💻 Tech Stack</h2>
-
+  <h2 style="font-size: 1.8em;">💻 Tech Stack</h2>
   <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -33,22 +33,17 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   </p>
-
 </div>
 
 ---
 
----
-
 <div align="center">
-
-  <h2>📊 GitHub Stats</h2>
-
+  <h2 style="font-size: 1.8em;">📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=akhil-singh28&theme=aura&hide_border=false" alt="Streak Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
 </div>
+
 ---
