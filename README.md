@@ -1,3 +1,4 @@
+<h1 align="center"><img src="https://slackmojis.com/emojis/13387-gokurun/download" width="35"> <b>Hello Hello! I'm Akhil Pratap Singh </b></h1>
 # 💫 About Me:
 🔭 I’m currently learning DATA SCIENCE<br>🔥 I’m skilled in PYTHON, JAVA(DSA), NUMPY, PANDAS, MATPLOTLIB, SEABORN, POWER BI<br>🚀 Data Science enthusiast passionate about exploring datasets and uncovering hidden insights.<br>🌱 Interested in solving real-world problems using data-driven decision-making.<br>⚡ Fun fact-I write better code after midnight — don’t ask why.
 
@@ -15,7 +16,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br>
 <br>
-<h1 align="center"><img src="https://slackmojis.com/emojis/13387-gokurun/download" width="35"> <b>Hello Hello! I'm Akhil Pratap Singh </b></h1>
+
 
 <div align="center"><img alt="pikachu" src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" /></div> <br/><br/> <h2><img src="https://slackmojis.com/emojis/10254-pepe_naruto/download" width="20"> <b>About Me<b/></h2>
     <p>🔭 I’m currently learning DATA SCIENCE
