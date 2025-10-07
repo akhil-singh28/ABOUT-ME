@@ -1,6 +1,7 @@
 <h1 align="center"><img src="https://slackmojis.com/emojis/13387-gokurun/download" width="35"> <b>Hello Hello! I'm Akhil Pratap Singh </b></h1>
 
-<div align="center"><img alt="pikachu" src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" /></div> <br/><br/> <h2><img src="https://slackmojis.com/emojis/10254-pepe_naruto/download" width="20"> <b>About Me<b/></h2>
+<div align="center"><img alt="pikachu" src="<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d2627839-8c11-4f49-937e-96d1db618d21" />
+" /></div> <br/><br/> <h2><img src="https://slackmojis.com/emojis/10254-pepe_naruto/download" width="20"> <b>About Me<b/></h2>
 # 💫 About Me:<br>
 🔭 I’m currently learning DATA SCIENCE<br>🔥 I’m skilled in PYTHON, JAVA(DSA), NUMPY, PANDAS, MATPLOTLIB, SEABORN, POWER BI<br>🚀 Data Science enthusiast passionate about exploring datasets and uncovering hidden insights.<br>🌱 Interested in solving real-world problems using data-driven decision-making.<br>⚡ Fun fact-I write better code after midnight — don’t ask why.
 
@@ -14,40 +15,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akhil-singh28&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br>
-<br>
-
-
-
-    <p>🔭 I’m currently learning DATA SCIENCE
-🔥 I’m skilled in PYTHON, JAVA(DSA), NUMPY, PANDAS, MATPLOTLIB, SEABORN, POWER BI
-🚀 Data Science enthusiast passionate about exploring datasets and uncovering hidden insights.
-🌱 Interested in solving real-world problems using data-driven decision-making.
-⚡ Fun fact-I write better code after midnight — don’t ask why.</p>
-    
-
-<h2><img src="https://slackmojis.com/emojis/37554-charmander/download" width="30"> <b>Socials<b/></h2>
-
-[![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhil-singh28)
-
-<h2><img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="30" /> <b>Tech Stack<b/></h2>
-
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=MongoDB&logoColor=white) ![](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
-    
-
-<h2><img src="https://slackmojis.com/emojis/78855-pepe_narutoq/download" width="30" /> <b>Github Stats<b/></h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" align="left" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-singh28&theme=dracula&hide_border=false" align="left" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-    
-
-<h2><img src="https://slackmojis.com/emojis/50155-vegeta-smile/download" width="30"> <b>Top Repositories<b/></h2> 
-
-![](https://github-contributor-stats.vercel.app/api?username=akhil-singh28&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-    
-
-<!-- Proudly created with Github Readme Maker ( https://github-readme-maker-pi.vercel.app/ ) -->
