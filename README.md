@@ -1,5 +1,3 @@
-# ABOUT-ME
-
 # 💫 About Me:
 🔭 I’m currently learning DATA SCIENCE<br>🔥 I’m skilled in PYTHON, JAVA(DSA), NUMPY, PANDAS, MATPLOTLIB, SEABORN, POWER BI<br>🚀 Data Science enthusiast passionate about exploring datasets and uncovering hidden insights.<br>🌱 Interested in solving real-world problems using data-driven decision-making.<br>⚡ Fun fact-I write better code after midnight — don’t ask why.
 
@@ -10,8 +8,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=akhil-singh28&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=akhil-singh28&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akhil-singh28&theme=solarized-dark&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
