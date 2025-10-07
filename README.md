@@ -1,5 +1,4 @@
-<h1 align="center"><img src="<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4b333a8a-763f-4ead-8ebd-dfa79ea3f7eb" />
-" width="35"> <b>Hello Hello! I'm Akhil Pratap Singh </b></h1>
+<h1><b>Hello Hello! I'm Akhil Pratap Singh </b></h1>
 
 <div align="center"><img alt="pikachu" src="<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d2627839-8c11-4f49-937e-96d1db618d21" />
 " /></div> <br/><br/> <h2><img src="https://slackmojis.com/emojis/10254-pepe_naruto/download" width="20"> <b>About Me<b/></h2>
