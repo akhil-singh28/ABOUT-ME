@@ -6,7 +6,7 @@
 
 <p style="font-size: 0.95em;">
 🔭 I’m currently learning <strong>Data Science</strong><br>
-🔥 Skilled in <strong>Python</strong>, <strong>Java (DSA)</strong>, <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, <strong>Seaborn</strong>, <strong>Power BI</strong><br>
+🔥 Skilled in <strong>Python</strong>, <strong>Java (DSA)</strong>, <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, <strong>Power BI</strong><br>
 💕 I am looking to collaborate on Data Science and Machine Learning Projects<br>
 🚀 Data Science enthusiast passionate about exploring datasets and uncovering hidden insights<br>
 🌱 Interested in solving real-world problems using data-driven decision-making<br>
