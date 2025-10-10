@@ -29,15 +29,30 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <h2 style="font-size: 1.8em;">📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=akhil-singh28&theme=aura&hide_border=false" alt="Streak Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+</div> -->
 
+## 📊 GitHub Activity & Stats  
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1E5&icon_color=79C0FF" width="47%" />  
+
+  <img src="https://streak-stats.demolab.com?user=Kartikay-Dubey&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=79C0FF&sideNums=58A6FF&dates=8B949E&sideLabels=79C0FF" width="47%" />  
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&langs_count=8" width="60%"/>  
+
+</div>  
+
+---
 ---
 
 ---
