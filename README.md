@@ -12,7 +12,8 @@
 🌱 Interested in solving real-world problems using data-driven decision-making<br>
 ⚡ Fun fact: I write better code after midnight — don’t ask why.
 </p>
-
+<br>
+<br>
 ---
 
 ## 💻 Tech Stack  
@@ -28,7 +29,8 @@
 </p>
 
 ---
-
+<br>
+<br>
 <div align="center">
   <h2 style="font-size: 1.8em;">📊 GitHub Stats</h2>
 </div>
