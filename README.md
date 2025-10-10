@@ -42,13 +42,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1E5&icon_color=79C0FF" width="47%" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1E5&icon_color=79C0FF" width="47%" />  
 
-  <img src="https://streak-stats.demolab.com?user=Kartikay-Dubey&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=79C0FF&sideNums=58A6FF&dates=8B949E&sideLabels=79C0FF" width="47%" />  
+  <img src="https://streak-stats.demolab.com?user=akhil-singh28&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=79C0FF&sideNums=58A6FF&dates=8B949E&sideLabels=79C0FF" width="47%" />  
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&langs_count=8" width="60%"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&langs_count=8" width="60%"/>  
 
 </div>  
 
@@ -58,6 +58,6 @@
 ---
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://raw.githubusercontent.com/Kartikay-Dubey/Kartikay-Dubey/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/akhil-singh28/akhil-singh28/output/snake.svg)
 
 ---
