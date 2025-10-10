@@ -34,7 +34,13 @@
     <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   </p>
 </div>
+## 🚀 Tech Stack  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,mongodb,github,vscode,netlify" />
+</p>  
+
+---
 ---
 
 <div align="center">
