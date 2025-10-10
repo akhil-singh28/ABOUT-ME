@@ -21,7 +21,7 @@
 
   <!-- skillicons.dev icons -->
   <p>
-    <img src="https://skillicons.dev/icons?i=python,java,c,react,nodejs,javascript,mysql,mongodb,sklearn,oracle,github,vscode,jupyter" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,react,nodejs,javascript,mysql,mongodb,sklearn,github,vscode,jupyter" />
   </p>
 
   <!-- shields.io for unavailable icons -->
