@@ -1,10 +1,10 @@
 <div align="center">
-  <h1 style="font-size: 2.5em;">✨ Akhil Pratap Singh ✨</h1>
+  <h1 style="font-size: 3.5em;">✨ Akhil Pratap Singh ✨</h1>
 </div>
 
-<h2 style="font-size: 1.8em;">💫 About Me:</h2>
+<h2 style="font-size: 2.0em;">💫 About Me:</h2>
 
-<p style="font-size: 0.95em;">
+<p style="font-size: 1.0em;">
 🔭 I’m currently learning <strong>Data Science</strong><br>
 🔥 Skilled in <strong>Python</strong>, <strong>Java (DSA)</strong>, <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, <strong>Power BI</strong><br>
 💕 I am looking to collaborate on Data Science and Machine Learning Projects<br>
@@ -35,13 +35,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1E5&icon_color=79C0FF" width="47%" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1E5&icon_color=79C0FF" width="40%" />  
 
-  <img src="https://streak-stats.demolab.com?user=akhil-singh28&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=79C0FF&sideNums=58A6FF&dates=8B949E&sideLabels=79C0FF" width="47%" />  
+  <img src="https://streak-stats.demolab.com?user=akhil-singh28&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=79C0FF&sideNums=58A6FF&dates=8B949E&sideLabels=79C0FF" width="40%" />  
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&langs_count=8" width="60%"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&langs_count=8" width="50%"/>  
 
 </div>  
 
