@@ -58,6 +58,5 @@
 ---
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://raw.githubusercontent.com/akhil-singh28/akhil-singh28/output/snake.svg)
-
+![GitHub Snake Dark](https://raw.githubusercontent.com/akhil-singh28/akhil-singh28/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ---
