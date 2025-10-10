@@ -33,20 +33,7 @@
   </p>
 
 </div>
-<div align="center">
 
-  <h2>💻 Tech Stack</h2>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,java,c,react,nodejs,mysql,mongodb,sklearn,git,github,vscode" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  </p>
-
-</div>
 
 ---
 <br>
