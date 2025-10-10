@@ -31,14 +31,7 @@
 
 <div align="center">
   <h2 style="font-size: 1.8em;">📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=akhil-singh28&theme=aura&hide_border=false" alt="Streak Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-
-## 📊 GitHub Activity & Stats  
 
 <div align="center">
 
