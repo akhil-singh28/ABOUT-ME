@@ -14,11 +14,9 @@
 </p>
 <br>
 <br>
----
-
-## 💻 Tech Stack  
 
 <p align="center">
+  <h2>💻Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=python,java,c,react,nodejs,mysql,mongodb,sklearn,git,github,vscode" />
 </p>
 <p align="center">
